@@ -1,7 +1,7 @@
 ### Hi there, I'm Shawn - aka mrshawnhum 👋
 
 ## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [AI-powered React News Application](https://github.com/mrshawnhum/alan-ai-news)!
 - 🌱 I’m currently learning everything 🤣
 - :name_badge: I’m looking a junior Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
@@ -39,11 +39,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Responsive Voice-controlled News App with Alan AI, React, Material-UI](https://dev.to/mrshawnhum/responsive-voice-controlled-news-app-with-alan-ai-react-material-ui-2kcn)
-- [2020 Trends in Technology Workforce(so far)](https://dev.to/mrshawnhum/2020-trends-in-technology-workforce-so-far-54hc)
-- [8 Projects That Can Get You an Interview (with recommended video)](https://dev.to/mrshawnhum/8-projects-that-can-get-you-an-interview-with-recommended-video-12mm)
-- [Simply Explained: Git Commit Message](https://dev.to/mrshawnhum/git-commit-message-simply-explained-162g)
-- [Simply Explained: Deno vs Node.js](https://dev.to/mrshawnhum/deno-vs-node-js-simply-explained-p1g)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
