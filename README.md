@@ -1,6 +1,6 @@
 ### Hi there, I'm Shawn - aka mrshawnhum 👋
 
-## I'm a Junior Full Stack Developer Transacting to a Career in Software Development!
+## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - :name_badge: I’m looking a junior Software Developer position!
