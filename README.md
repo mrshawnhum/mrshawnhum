@@ -39,6 +39,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Voice-controlled News App with Alan AI, React, Material-UI](https://dev.to/mrshawnhum/responsive-voice-controlled-news-app-with-alan-ai-react-material-ui-2kcn)
+- [2020 Trends in Technology Workforce(so far)](https://dev.to/mrshawnhum/2020-trends-in-technology-workforce-so-far-54hc)
+- [8 Projects That Can Get You an Interview (with recommended video)](https://dev.to/mrshawnhum/8-projects-that-can-get-you-an-interview-with-recommended-video-12mm)
+- [Simply Explained: Git Commit Message](https://dev.to/mrshawnhum/git-commit-message-simply-explained-162g)
+- [Simply Explained: Deno vs Node.js](https://dev.to/mrshawnhum/deno-vs-node-js-simply-explained-p1g)
 <!-- BLOG-POST-LIST:END -->
 
 ---
