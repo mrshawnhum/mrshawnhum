@@ -3,7 +3,7 @@
 ## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
 - 🔭 I’m currently working on a [AI-powered React News Application](https://github.com/mrshawnhum/alan-ai-news)!
 - 🌱 I’m currently learning everything 🤣
-- :name_badge: I’m looking a junior Software Developer position!
+- :name_badge: I’m looking for a junior Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
 - ⚡ Fun fact: I love to spend ime outdoors and travel!
 
