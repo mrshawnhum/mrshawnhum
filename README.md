@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - :name_badge: I’m looking for a junior Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
-- ⚡ Fun fact: I love to spend ime outdoors and travel!
+- ⚡ Fun fact: I love to spend time outdoors and travel!
 
 ### Connect with me:
 
