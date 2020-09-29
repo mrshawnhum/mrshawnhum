@@ -1,7 +1,7 @@
 ### Hi there, I'm Shawn - aka mrshawnhum 👋
 
 ## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
-- 🔭 I’m currently working on a [AI-powered React News Application](https://github.com/mrshawnhum/alan-ai-news)!
+- 🔭 I’m currently working on a [Tri-County Bees Ecommerce site](https://github.com/mrshawnhum/tricounty-bees)!
 - 🌱 I’m currently expanding my knowledge in MERN stack!
 - :name_badge: I’m looking for a junior Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
