@@ -2,7 +2,7 @@
 
 ## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
 - 🔭 I’m currently working on a [AI-powered React News Application](https://github.com/mrshawnhum/alan-ai-news)!
-- 🌱 I’m currently expanding my knownledge in MERN stack!
+- 🌱 I’m currently expanding my knowledge in MERN stack!
 - :name_badge: I’m looking for a junior Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
 - ⚡ Fun fact: I love to spend time outdoors and travel!
