@@ -1,11 +1,11 @@
 ### Hi there, I'm Shawn - aka mrshawnhum 👋
 
 ## I'm a Junior Full Stack Developer Transitioning to a Career in Software Development!
-- 🔭 I’m currently working on a [Tri-County Bees Ecommerce site](https://github.com/mrshawnhum/tricounty-bees)!
-- 🌱 I’m currently expanding my knowledge in MERN stack!
-- :name_badge: I’m looking for a junior Software Developer position!
+- 🔭 I’m currently working on a Tri-County Bees BigCommerce site!
+- 🌱 I’m currently learning BigCommerce and Python!
+- :name_badge: I’m looking for a Software Developer position!
 - 🥅 2020 Goals: Get my first developer position!
-- ⚡ Fun fact: I love to spend time outdoors and travel!
+- ⚡ Fun fact: I love to spend time outdoors, work on trucks, and travel!
 
 ### Connect with me:
 
